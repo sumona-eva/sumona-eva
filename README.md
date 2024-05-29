@@ -1,6 +1,6 @@
 
 <p><img align="center" src="https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg"  /></p>
-<h1 align="center">Hi 👋, I'm Tushar Imran</h1>
+<h1 align="center">Hi 👋, I'm Sumona Eva </h1>
 <p align="center">A Full Stack Software Engineer</h3>
 <p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=tushar-me&](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)"  /></p>
 
@@ -10,23 +10,9 @@
 
 - 🌱 I’m currently learning **Laravel Digging Deeper, Python, DevOps**
 
-- 👨‍💻 All of my projects are available at [https://tusharimran.site/](https://tusharimran.site/)
-
 - 💬 Ask me about **Software Development with Laravel, Laravel Design Patterns,  Frontend Frameworks**
 
-- 📫 How to reach me **tusharimran.developer@gmail.com**
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/tusharimran.online" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tusharimran.online" height="30" width="40" /></a>
-<a href="https://instagram.com/tusharimran___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tusharimran___" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/21828294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21828294" height="30" width="40" /></a>
-</p>
-</p>
+- 📫 How to reach me **sumonaakter.cse22@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
